@@ -1,0 +1,55 @@
+/* All body style */
+body{
+    background-image: url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg");
+    background-size: 100%;
+    background-position: center;    
+
+}
+
+
+/* Important data style*/
+.container-1{
+    border: 1.5px solid black;
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+
+/* H1 tag style inside the container class */
+.container-1 h1{
+    text-align: center; 
+}
+
+
+/* This style for buttons */
+.flex-box-container-1{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    justify-content: space-around;      
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+
+/* This style for div tag*/
+.flex-box-container-1 div{
+    display: flex;
+    padding: 10px;
+    border: 1.5px solid black;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
